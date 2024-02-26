@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Daphine
+- 👀 I’m interested in data analysis
+- 🌱 I’m currently learning machine learning
+- 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me daphineotwori@gmail.com
