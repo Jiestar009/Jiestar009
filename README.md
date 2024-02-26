@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Daphine
-- 👀 I’m interested in data analysis
+- 👀 I’m interested in data analysis and data science
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me daphineotwori@gmail.com
+- 📷 Photography is what i love doing
