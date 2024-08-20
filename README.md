@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daphine
 - 👀 I’m interested in AI and data science
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me daphineotwori@gmail.com
 - 📷 Photography is my passion
